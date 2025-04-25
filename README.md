@@ -55,21 +55,21 @@ Start the Backend
   npm indext.js
 ```
 #----------------------------------------------------------------------------------
-## env
-env FrontEnd
-
-```bash
- REACT_APP_API_URL=http://localhost:5000/api
-```
 
 env Server
 
 ```bash
 GOOGLE_CLIENT_ID=xxxxxxxxxxxxxxxxxxxxxxx
-GOOGLE_CLIENT_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callback
+GOOGLE_CLIENT_SECRET=Gxxxxxxxxxxxxxxxxxx
+GOOGLE_CALLBACK_URL=http://localhost:5000/auth/google/callxxxxx
 FRONTEND_URL=http://localhost:3000
-SESSION_SECRET=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+SESSION_SECRET=rahasiaxx
+
+MYSQL_HOST=127.0.0.1
+MYSQL_USER=root
+MYSQL_PASSWORD=
+MYSQL_DATABASE=xxxxxxxxxxxxxxxxxxxx
+SPREADSHEET_ID=xxxxxxxxxxxxxxxxxxxxxxxxxx
 ```
 
 
