@@ -1,7 +1,6 @@
 
 # React Authentication - 02AUTH(Google) - MySQL && Sync otomatis dari Google Spreadsheet
 
-A basic login page made with react which supports Authentication
 
 Kalau kamu mau migrasi penuh ke MySQL, maka limit Google ini bisa kamu abaikan sepenuhnya. Tapi kalau kamu tetap harus sync dari Sheet secara berkala, bisa kombinasikan:
 - cron scheduler
@@ -16,7 +15,7 @@ Instal Cache
  npm install node-cache
 ```
 
-Instyal Node Cron
+Instal Node Cron
 
 ```bash
  npm install node-cron
