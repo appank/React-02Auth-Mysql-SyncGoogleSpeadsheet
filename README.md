@@ -79,5 +79,5 @@ SPREADSHEET_ID=xxxxxxxxxxxxxxxxxxxxxxxxxx
 
 **Client:** React, JavaScript, Chakra UI
 
-**Authentication** Firebase
+**Authentication** 02Auth, MySQL
 
